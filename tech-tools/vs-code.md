@@ -1,10 +1,11 @@
 
 
-We use Python for most of our Sports data analysis. In order to get going with Python, we use Colab notebooks, provided by Google.
-(Alternatively, you can use Jupyter Notebooks, which runs on your local computer. Colab runs in the "cloud.")
-
-
 # Installing and Using the VS Code Editor
+
+VS Code is an easy-to-use editor that is increasing becoming very popular with developers. In this page, we cover how to install VS Code,
+**and** we will also see how to Connect git to your VS Code instance.
+
+- **[Instructions to Download VS Code](https://code.visualstudio.com/)**
 
 
 ### Connect git to your VS Code Editor
@@ -23,11 +24,11 @@ You now have two options -- to use the "Source Control" view in VS Code, or to u
 ### VS Code Source Control for Git commands
 
 VS Code has made a new overview video that explains this: 
+
 <iframe width="750" height="400" src="https://www.youtube.com/embed/i_23KUAEtUM" title="Using Git with Visual Studio Code (Official Beginner Tutorial)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### CLI Terminal for Git commands
 If you are comfortable with command line tools, you can run git using the ["Built-in Terminal" in VS Code](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_using-git-in-the-builtin-terminal).
 
-<img src="../img/git-bash.png" width="250">
+<img src="../img/git-bash.png" width="500">
 
-<img src="">
