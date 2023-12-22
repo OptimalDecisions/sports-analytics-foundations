@@ -17,7 +17,7 @@ VS Code is an easy-to-use editor that is increasing becoming very popular with d
     Follow the [instructions given here](https://git-scm.com/downloads)
 
 
-After you have downloaded git, you can follow the steps in this page(https://code.visualstudio.com/docs/sourcecontrol/intro-to-git). It clearly lays out the steps needed to connect your VS Code instance to gitHub.
+After you have downloaded *git*, you can follow the steps in [this page](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git). It clearly lays out the steps needed to connect your VS Code instance to gitHub.
 
 You now have two options -- to use the "Source Control" view in VS Code, or to use the built-in terminal that comes with VS Code.
 
