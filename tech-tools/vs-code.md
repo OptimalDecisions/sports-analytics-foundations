@@ -5,17 +5,21 @@
 VS Code is an easy-to-use editor that is increasing becoming very popular with developers. In this page, we cover how to install VS Code,
 **and** we will also see how to Connect git to your VS Code instance.
 
+## Step 1 - Download VS Code
 - **[Instructions to Download VS Code](https://code.visualstudio.com/)**
 
 
-### Connect git to your VS Code Editor
+## Connect git to your VS Code Editor
 
+## Step 2 - Download VS Code
 
 **Note that you first have to download 'git' for your operating system**
 
 -- How to Download git for your OS (Windows, Mac or Linux)?
     Follow the [instructions given here](https://git-scm.com/downloads)
 
+
+## Step 3 - Connect `git` to VS Code
 
 After you have downloaded *git*, you can follow the steps in [this page](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git). It clearly lays out the steps needed to connect your VS Code instance to gitHub.
 
