@@ -25,7 +25,9 @@ You now have two options -- to use the "Source Control" view in VS Code, or to u
 
 VS Code has made a new overview video that explains this: 
 
-<iframe width="750" height="400" src="https://www.youtube.com/embed/i_23KUAEtUM" title="Using Git with Visual Studio Code (Official Beginner Tutorial)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="750" height="400" src="https://www.youtube.com/embed/i_23KUAEtUM" title="Using Git with Visual Studio Code (Official Beginner Tutorial)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
 
 ### CLI Terminal for Git commands
 If you are comfortable with command line tools, you can run git using the ["Built-in Terminal" in VS Code](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_using-git-in-the-builtin-terminal).
