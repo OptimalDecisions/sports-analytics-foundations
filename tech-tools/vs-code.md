@@ -8,8 +8,8 @@ VS Code is an easy-to-use editor that is increasing becoming very popular with d
 ## Step 1 - Download VS Code
 - **[Instructions to Download VS Code](https://code.visualstudio.com/)**
 
-
-## Connect git to your VS Code Editor
+You will want to connect git to your VS Code Editor, so that you can use git command while editing your files.
+(If you prefer not to use these, then you can use the [Github Desktop](https://desktop.github.com/) to interact with GitHub.)
 
 ## Step 2 - Download VS Code
 
