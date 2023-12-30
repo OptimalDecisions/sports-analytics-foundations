@@ -23,5 +23,5 @@ please try the exercises and the challenges.
 | Intermediate Topics | |
 | Time Series Data in Pandas     	| [Pandas Basics 2.8]()  	| [Pandas Exercises 2.8 Ex]()  	|
 | Merging Multiple data frames     	| [Pandas Basics 2.9]()  	| [Pandas Exercises 2.9 Ex]()  	|
-| GroupBy()     	| [Pandas Basics 2.10]()  	| [Pandas Exercises 2.10 Ex]()  	|
+| GroupBy()     	| [Pandas Basics 2.10](Pandas_Intermediate_2_10_GroupBy.ipynb)  	| [Pandas Exercises 2.10 Ex]()  	|
 
