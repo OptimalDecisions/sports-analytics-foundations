@@ -12,16 +12,18 @@ please try the exercises and the challenges.
 
 | Topic  	                | Notebook  	| Exercise  	|
 |---	                    |---	|---	|
-| Getting started  	        | [Pandas Basics 2.0]()  	|   None                    	|
-| Basic Pandas Data Structures  	| [Pandas Basics 2.1]()  	| [Pandas Exercises 2.1Ex]()|
-| Reading Data from files        	| [Pandas Basics 2.2]()  	| [Pandas Exercises 2.2Ex]()|
-| Examining, Describing and Summarizing Data  	| [Pandas Basics 2.3]()  	| [Pandas Exercises 2.3Ex]()|
-| Column Operations in Pandas  	        | [Pandas Basics 2.4]()  	| [Pandas Exercises 2.4Ex]()|
-| Filtering And Selecting Data  	| [Pandas Basics 2.5]()  	| [Pandas Exercises 2.5Ex]()|
-| Sorting Values      	| [Pandas Basics 2.6]()  	| [Pandas Exercises 2.6Ex]() |
+| Getting started  	        | [Pandas Basics 2.0](Pandas_Basics_2_0_Getting_Started.ipynb)  	|   None                    	|
+| Basic Pandas Data Structures  	| [Pandas Basics 2.1](Pandas_Basics_2_1_Data_Structures.ipynb)  	| [Pandas Exercises 2.1Ex](Pandas_Exercise_2_1_Exer_Series_and_DataFrames.ipynb)|
+| Reading Data from files        	| [Pandas Basics 2.2](Pandas_Basics_2_2_Reading_Files.ipynb)  	| [Pandas Exercises 2.2Ex](Pandas_Exercise_2_2_Exer_Reading_Files.ipynb)|
+| Examining, Describing and Summarizing Data  	| [Pandas Basics 2.3](Pandas_Basics_2_3_Exploring_Data.ipynb)  	| [Pandas Exercises 2.3Ex](Pandas_Exercise_2_3_Exer_Quick_Exploration_NBA_Games.ipynb)|
+| Column Operations in Pandas  	        | [Pandas Basics 2.4](Pandas_Basics_2_4_Column_Operations.ipynb)  	| [Pandas Exercises 2.4Ex](Pandas_Exercise_2_4_Exer_Column_Operations.ipynb)|
+| Filtering And Selecting Data  	| [Pandas Basics 2.5](Pandas_Basics_2_5_Filtering_Data.ipynb)  	| [Pandas Exercises 2.5Ex](Pandas_Exercise_2_5_Exer_Filtering_Data.ipynb)|
+
+
+<!-- | Sorting Values      	| [Pandas Basics 2.6]()  	| [Pandas Exercises 2.6Ex]() |
 | Writing Data to Files     	| [Pandas Basics 2.7]()  	| [Pandas Exercises 2.7 Ex]()  	|
 | Intermediate Topics | |
 | Time Series Data in Pandas     	| [Pandas Basics 2.8]()  	| [Pandas Exercises 2.8 Ex]()  	|
 | Merging Multiple data frames     	| [Pandas Basics 2.9]()  	| [Pandas Exercises 2.9 Ex]()  	|
-| GroupBy()     	| [Pandas Basics 2.10](Pandas_Intermediate_2_10_GroupBy.ipynb)  	| [Pandas Exercises 2.10 Ex]()  	|
+| GroupBy()     	| [Pandas Basics 2.10](Pandas_Intermediate_2_10_GroupBy.ipynb)  	| [Pandas Exercises 2.10 Ex]()  	| -->
 
