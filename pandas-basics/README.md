@@ -6,7 +6,7 @@ This folder contains Colab notebooks that cover the very basics of Pandas. (They
 The notebooks have an accompanying Exercises Notebook. To be sure that you have understood these concepts, 
 please try the exercises and the challenges.
 
-`Fork` the repo into your GitHub account, and that way, you can go through each Colab notebook, and try to make changes to your copy.
+`Copy the notebooks to your Google Drive` and that way, you can go through each Colab notebook, and try to make changes to your copy.
 
 
 
