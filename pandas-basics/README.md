@@ -20,8 +20,8 @@ please try the exercises and the challenges.
 | Filtering And Selecting Data  	| [Pandas Basics 2.5](Pandas_Basics_2_5_Filtering_Data.ipynb)  	| [Pandas Exercises 2.5Ex](Pandas_Exercise_2_5_Exer_Filtering_Data.ipynb)|
 | Sorting Values      	| [Pandas Basics 2.6](Pandas_Basics_2_6_Sorting.ipynb)  	| [Pandas Exercises 2.6Ex](Pandas_Exercise_2_6_Exer_Sorting.ipynb) |
 | Writing Data to Files     	| [Pandas Basics 2.7](Pandas_Basics_2_7_Writing_to_Files.ipynb) | [Pandas Exercises 2.7 Ex](Pandas_Exercise_2_7_Exer_Writing_to_Files.ipynb)  	| 
-| Date & Time Columns     	| [Pandas Basics 2.8](Pandas_Intermediate_2_8_Dates_and_Time.ipynb)| [Pandas Exercises 2.8 Ex](Pandas_Exercise_2_8_Exer_Date_and_Time.ipynb)  	| 
 | Intermediate Topics | |
-| Merging Multiple data frames     	| [Pandas Basics 2.9](Pandas_Intermediate_2_9_Merging_DataFrames.ipynb)  	| [Pandas Exercises 2.9 Ex](Pandas_Exercise_2_9_Exer_Merging_Dataframes.ipynb)  	|
-| GroupBy()     	| [Pandas Basics 2.10](Pandas_Intermediate_2_10_GroupBy.ipynb)  	| [Pandas Exercises 2.10 Ex](Pandas_Exercise_2_10_Exer_Groupby.ipynb)  	|
+| Date & Time Columns     	| [Pandas Intermediate 2.8](Pandas_Intermediate_2_8_Dates_and_Time.ipynb)| [Pandas Exercises 2.8 Ex](Pandas_Exercise_2_8_Exer_Date_and_Time.ipynb)  	| 
+| Merging Multiple data frames     	| [Pandas Intermediate 2.9](Pandas_Intermediate_2_9_Merging_DataFrames.ipynb)  	| [Pandas Exercises 2.9 Ex](Pandas_Exercise_2_9_Exer_Merging_Dataframes.ipynb)  	|
+| GroupBy()     	| [Pandas Intermediate 2.10](Pandas_Intermediate_2_10_GroupBy.ipynb)  	| [Pandas Exercises 2.10 Ex](Pandas_Exercise_2_10_Exer_Groupby.ipynb)  	|
 | Time Based Indexing     	| [Pandas Inter 2.11](Pandas_Intermediate_2_11_Time_Based_Index.ipynb)	| None  	| 
