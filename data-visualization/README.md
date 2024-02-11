@@ -15,4 +15,5 @@ The notebooks have an accompanying Exercises Notebook. To be sure that you have 
 | Matplotlib Basics        	| [Data Visualization 3.2](Data_Visualization_3_2_Matplotlib_Basics.ipynb) | [Pandas Exercises 3.2Ex]()|
 | Matplotlib Figure & Axes        	| [Data Visualization 3.3](Data_Visualization_3_3_Matplotlib_Figure_and_Axis.ipynb) | [Pandas Exercises 3.3Ex]()|
 | Plotting with Seaborn        	| [Data Visualization 3.4](Data_Visualization_3_4_Seaborn.ipynb) | [Pandas Exercises 3.4Ex]()|
+| Customizing Plots        	| [Data Visualization 3.5](Data_Visualization_3_4_Seaborn.ipynb) | [Pandas Exercises 3.5Ex]()|
 
